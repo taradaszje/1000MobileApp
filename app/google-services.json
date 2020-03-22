@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "689066104664",
+    "firebase_url": "https://thousanddisplay.firebaseio.com",
+    "project_id": "thousanddisplay",
+    "storage_bucket": "thousanddisplay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689066104664:android:122ef378a3b83a3754f72d",
+        "android_client_info": {
+          "package_name": "com.taradaszje.thousandCardGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689066104664-j1h9ginuvcaqdbj6o07f9c4f32fj5mes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1I2DiFkDu0yDmNFMhhEKKOLmvW6DdqwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689066104664-j1h9ginuvcaqdbj6o07f9c4f32fj5mes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
